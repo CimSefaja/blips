@@ -1,0 +1,2 @@
+# blips
+Fivem Blips Script
